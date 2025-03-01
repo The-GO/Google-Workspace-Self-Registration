@@ -53,5 +53,15 @@
 5. **获取 Refresh Token**：
    - 在 **"Step 2"**，点击 **"Exchange authorization code for tokens"**。
    - **Refresh Token** 会显示在下方，复制并安全存储。
+  
+6. **添加环境变量**：
+    GOOGLE_CLIENT_ID,
+    GOOGLE_CLIENT_SECRET,
+    GOOGLE_REFRESH_TOKEN,
+    GOOGLE_ADMIN_EMAIL,
+    VERIFICATION_CODE,
+    EMAIL_DOMAIN,
+    TURNSTILE_SITE_KEY,
+    TURNSTILE_SECRET_KEY
 
 
