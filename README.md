@@ -55,13 +55,14 @@
    - **Refresh Token** 会显示在下方，复制并安全存储。
   
 6. **添加环境变量**：
-    GOOGLE_CLIENT_ID,
-    GOOGLE_CLIENT_SECRET,
-    GOOGLE_REFRESH_TOKEN,
-    GOOGLE_ADMIN_EMAIL,
-    VERIFICATION_CODE,
-    EMAIL_DOMAIN,
-    TURNSTILE_SITE_KEY,
-    TURNSTILE_SECRET_KEY
+   - GOOGLE_CLIENT_ID=客户端 ID
+   - GOOGLE_CLIENT_SECRET=客户端密钥
+   - GOOGLE_REFRESH_TOKEN=Refresh Token
+   - GOOGLE_ADMIN_EMAIL=管理员邮箱
+   - VERIFICATION_CODE=验证码
+   - EMAIL_DOMAIN=域名邮箱
+   - TURNSTILE_SITE_KEY=Turnstile Site Key
+   - TURNSTILE_SECRET_KEY=Turnstile Secret Key
+    
 
 
