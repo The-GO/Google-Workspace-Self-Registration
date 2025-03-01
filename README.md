@@ -58,7 +58,6 @@
    - GOOGLE_CLIENT_ID=客户端 ID
    - GOOGLE_CLIENT_SECRET=客户端密钥
    - GOOGLE_REFRESH_TOKEN=Refresh Token
-   - GOOGLE_ADMIN_EMAIL=管理员邮箱
    - VERIFICATION_CODE=验证码
    - EMAIL_DOMAIN=域名邮箱
    - TURNSTILE_SITE_KEY=Turnstile Site Key
