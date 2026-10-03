@@ -15,6 +15,7 @@
 
 2. **导航到 OAuth 2.0 客户端 ID**：
    - 在左侧导航栏，选择 **APIs & Services > Credentials**。
+   - 点击Create Credentials
    - 找到您之前创建的 **OAuth 2.0 Client ID**，点击其名称进行编辑。
 
 3. **检查并添加授权的重定向 URI**：
@@ -42,7 +43,7 @@
    - 点击 **"Close"** 保存设置。
 
 3. **选择正确的作用域**：
-   - 在 **"Step 1: Select & authorize APIs"** 部分，展开 **"Admin SDK"**。
+   - 在 **"Step 1: Select & authorize APIs"** 部分，展开 **"Admin SDK API directory_v1"**。
    - 勾选 "https://www.googleapis.com/auth/admin.directory.user"。
    - 点击 **"Authorize APIs"**。
 
